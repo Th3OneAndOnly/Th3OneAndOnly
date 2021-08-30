@@ -45,5 +45,6 @@ Alright random fact time GO!!!
 
 ***MY LEFT KNEE IS SLIGHTER LARGER THAN MY RIGHT--*** phew! Glad to get that over with.
 
+Also I have a github website: [th3oneandonly.github.io](https://th3oneandonly.github.io) *\*fancy\**!
 
 ### Now I must leave! The repos call me! 🦸‍♂️
