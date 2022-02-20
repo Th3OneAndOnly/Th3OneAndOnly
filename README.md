@@ -37,7 +37,7 @@ Might as well spam github stats if you're still reading:
 
 What's that? You're still here? I guess you want to know some stuff about me. Well, let's see...
 
-* I am a self-taught programmer, started on Codecademy about 5 years ago. 📖
+* I am a self-taught programmer, started on Codecademy in 2015 or so. 📖
 * Used to develop a lot in Python but never released anything on Github. 🐍
 * I like to make music, which is another one of my hobbies. 🎵
 
